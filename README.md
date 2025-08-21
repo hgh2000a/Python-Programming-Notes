@@ -39,7 +39,7 @@
 <p align="right">
 
 1. این مخزن را کلون کنید:  
-   <pre><code>git clone https://github.com/username/repository-name.git</code></pre>  
+   <pre><code>git clone https://github.com/hgh2000a/Python-Programming-Notes.git 
 2. فایل جزوه را باز کرده و بر اساس فصل‌ها مطالعه را شروع کنید  
 
 </p>
@@ -67,9 +67,6 @@
 
 <h2 align="right">📜 لایسنس</h2>
 
-<p align="right">
-این پروژه تحت مجوز MIT منتشر شده است و استفاده از آن آزاد است  
-</p>
 
 ---
 
